@@ -1,0 +1,3 @@
+Metroid is an action-adventure game in which the player controls Samus Aran in sprite-rendered two-dimensional landscapes. 
+The game takes place on the fictional planet of Zebes, a large, open-ended world with areas connected by doors and elevators. 
+The player controls Samus as she travels through the planet's caverns and hunts Space Pirates.

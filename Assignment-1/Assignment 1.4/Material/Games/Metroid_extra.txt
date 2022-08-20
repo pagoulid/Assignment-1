@@ -1,0 +1,13 @@
+Metroid is a 2D action platformer. Unlike other platformers in which there are several levels with defined start and end points, 
+the entire world is large and open-ended, with players free to access new areas and return to old ones as they see fit.
+
+Though Samus starts off with only the ability to jump and a weak, short-ranged weapon, she can improve her abilities by finding various
+ upgrades scattered throughout planet Zebes, such as the Long Beam to improve her weapon's range and the Morph Ball to access small
+ tunnels.
+
+Should the player achieve either of the latter two endings in the NES version, they will be able to restart the game with Samus 
+outside of her Power Suit and all upgrades they previously had (excluding Energy and Missile Tanks). 
+The difference, however, is purely cosmetic and doesn't affect regular gameplay.
+
+The magazine also named Metroid called it the fifth-best game for the Nintendo Entertainment System in its Best of the Best feature, 
+describing it as a combination of Super Mario Bros.'s platforming and The Legend of Zelda's exploration and character upgrades.

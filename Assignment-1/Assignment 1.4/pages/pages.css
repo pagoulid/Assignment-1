@@ -1,0 +1,51 @@
+body{
+    padding-top:5rem;
+}
+.container{
+    width:60%;
+    height:80vh;
+    background-color: aquamarine;
+    margin:auto;
+    box-shadow:2px 2px 5px 0.5px black;
+}
+
+.container-title{
+    text-align: center;
+    margin-bottom: 8rem;
+   
+}
+
+.container-menu{
+    width:50%;
+    margin:auto;
+    padding:auto;
+    padding-left:4rem;
+}
+
+.container-menu-item{
+    font-size:2rem;
+   /* color:blue;*/
+    margin-top:2rem;
+}
+
+.item-trivia{
+    text-decoration: none;
+    color:blue;
+}
+
+@media screen and (max-width:600px){
+
+    .container-menu{
+        padding-left:0;
+    }
+}
+
+@media screen and (max-width:500px){
+
+    .container-menu{
+        width:80%;
+        
+        padding-left:0;
+    }
+}
+

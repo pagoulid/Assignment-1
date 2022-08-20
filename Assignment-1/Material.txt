@@ -1,0 +1,59 @@
+
+
+How to be great at asking coding questions
+
+	Link: https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603
+
+The XY Problem
+
+	Link: https://xyproblem.info/
+
+Why Learning to Code is So Damn Hard
+
+	Link: https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/
+
+Things I Wish Someone Had Told Me When I Was Learning How to Code
+
+	Link : https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/
+
+Deliberate Proggramming Practise
+
+	Link: https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/
+
+
+
+
+
+HTML vs. CSS vs. Javascript: What’s the Difference?
+
+	Link: https://brytdesigns.com/html-css-javascript-whats-the-difference/
+
+HTML and CSS for Beginners Part 1: Introduction to HTML
+
+	Link: https://www.youtube.com/watch?v=LGQuIIv2RVA
+
+Basic html and Css for non  web-designers
+
+	Link: http://www.dontfeartheinternet.com/02-html/
+
+Dummy text generator:
+
+	Link: https://loremipsum.io/
+
+Links and Images:(Check point , next to read)
+
+	Link: https://www.internetingishard.com/html-and-css/links-and-images/
+
+Listed Html Tags
+
+	Link: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+Semantic Elements
+
+	Link: https://www.w3schools.com/html/html5_semantic_elements.asp
+
+
+
+
+
+

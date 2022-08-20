@@ -1,0 +1,40 @@
+h1{
+    text-align:center;
+}
+
+.list{
+    width:60%;
+    margin:auto;
+    box-shadow:2px 2px 5px 0.5px black;
+    padding-left:5%;
+    background-color:aquamarine;
+}
+
+li{
+    font-size:large;
+}
+
+li:not(:first-child){
+    margin-top:1rem;
+}
+
+.media-list-content {
+    list-style: square;
+}
+
+@media screen and (max-width:600px){
+    .list{
+        padding-left: 0;
+    }
+
+    li{
+        font-size: medium;
+    }
+
+    .list-content{
+        padding-left:1rem;
+    }
+}
+
+
+

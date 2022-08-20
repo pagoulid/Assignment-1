@@ -1,0 +1,60 @@
+.container{
+    width:60%;
+    height:50rem;
+    background-color: aquamarine;
+    margin:auto;
+    box-shadow:2px 2px 5px 0.5px black;
+}
+
+.container-title{
+    text-align:center;
+}
+.container-content{
+    padding-left:2vw;
+}
+
+.content{
+    display:inline-block;
+}
+
+.content-par{
+    
+    width:40%;
+    
+}
+
+
+.content-img{
+    margin-top:5rem; 
+}
+
+img{
+    /*margin-top:5rem;*/
+    margin-left: 10rem;
+
+}
+
+
+@media screen and (max-width:800px){
+    .content-par{
+        width:70%;
+    }
+    
+}
+
+@media screen and (max-width:660px){
+   .content{
+    display:block;
+   }
+   .content-img{
+    margin-top:2rem;
+    
+   }
+
+   img{
+    margin-left: 0;
+    text-align: center;
+
+   }
+    
+}

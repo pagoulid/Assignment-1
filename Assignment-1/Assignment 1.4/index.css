@@ -1,0 +1,42 @@
+body{
+    padding-top:5rem;
+}
+.container{
+    width:60%;
+    height:30rem;
+    background-color: aquamarine;
+    margin:auto;
+    box-shadow:2px 2px 5px 0.5px black;
+}
+
+.container-title{
+    text-align: center;
+    margin-bottom: 8rem;
+}
+
+.container-menu{
+    width:80%;
+    margin:auto;
+    padding:auto;
+}
+
+.container-menu-item{
+    font-size:3rem;
+    color:blue;
+}
+
+.container-menu-item:not(:first-child){
+    margin-left:2rem;
+}
+
+@media screen and (max-width:1068px){
+    .container-menu-item{
+        display:block;
+        margin-left:0;
+        
+    }
+
+    .container-menu-item:not(:first-child){
+        margin-left:0;
+    }
+}
